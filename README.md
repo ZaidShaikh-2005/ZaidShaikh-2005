@@ -41,7 +41,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### About Me &nbsp;•&nbsp; <a href="YOUR_RESUME_LINK">Resume</a>
+### About Me &nbsp;•&nbsp; <a href="https://drive.google.com/file/d/1CCa0gvIoTdfqLcWePOuW0FI9dDd6NgCE/view?usp=drive_link">Resume</a>
 
 I'm **Zaid Shaikh**, a B.Tech student in **Electronics & Telecommunication Engineering (Minor in Computer Engineering)** at **Sardar Patel Institute of Technology (SPIT), Mumbai**.
 
