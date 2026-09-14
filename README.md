@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1200&color=1E1E1E&center=true&vCenter=true&width=420&height=55&lines=Zaid+Shaikh;%E0%A4%9C%E0%A4%BC%E0%A5%88%E0%A4%A6+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%BC;%E0%A4%9D%E0%A5%88%E0%A4%A6+%E0%A4%B6%E0%A5%87%E0%A4%96;%D8%B2%DB%8C%D8%AF+%D8%B4%DB%8C%D8%AE;%E3%82%B6%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%95" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?size=40&duration=2500&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Zaid+Shaikh;Hi%2C+I%27m+%E6%89%8E%E4%BC%8A%E5%BE%B7%C2%B7%E8%B0%A2%E8%B5%AB;Hi%2C+I%27m+%D8%B2%D9%8A%D8%AF+%D8%B4%D9%8A%D8%AE;Hi%2C+I%27m+%E3%82%B6%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%95;Hi%2C+I%27m+%D0%97%D0%B0%D0%B8%D0%B4+%D0%A8%D0%B5%D0%B9%D1%85" alt="Typing SVG">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7A1&center=true&vCenter=true&width=800&lines=Software+Developer;Embedded+Systems+%26+IoT;AI%2FML+Enthusiast;Python+%7C+C%2B%2B+%7C+Django;Building+Real-World+Technology+Solutions" alt="Typing SVG">
 
