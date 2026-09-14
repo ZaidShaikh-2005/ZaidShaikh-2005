@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=1E1E1E&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Zaid+Shaikh" alt="Typing SVG">
+# Hi, I'm <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1200&color=1E1E1E&center=true&vCenter=true&width=420&height=55&lines=Zaid+Shaikh;%E0%A4%9C%E0%A4%BC%E0%A5%88%E0%A4%A6+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%BC;%E0%A4%9D%E0%A5%88%E0%A4%A6+%E0%A4%B6%E0%A5%87%E0%A4%96;%D8%B2%DB%8C%D8%AF+%D8%B4%DB%8C%D8%AE;%E3%82%B6%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%95" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=700&color=00C48C&center=true&vCenter=true&width=700&lines=Python;C;C%2B%2B;Java;JavaScript" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7A1&center=true&vCenter=true&width=800&lines=Software+Developer;Embedded+Systems+%26+IoT;AI%2FML+Enthusiast;Python+%7C+C%2B%2B+%7C+Django;Building+Real-World+Technology+Solutions" alt="Typing SVG">
 
 <br>
 
