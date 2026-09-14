@@ -182,23 +182,10 @@ Personal developer portfolio showcasing projects, skills, and technical experien
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaidShaikh-2005&theme=tokyo-night&hide_border=true">
+<img src="https://ghchart.rshah.org/E100FF/ZaidShaikh-2005" alt="ZaidShaikh-2005's Github chart">
 </div>
 
 ---
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ZaidShaikh-2005"><img src="https://img.shields.io/badge/GitHub-ZaidShaikh--2005-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:iamzaid.shaikh2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-
-</div>
-
-<br>
 
 <div align="center">
 
