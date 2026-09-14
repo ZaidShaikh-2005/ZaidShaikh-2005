@@ -35,8 +35,6 @@
 
 <br>
 
----
-
 ## About Me
 
 <table>
