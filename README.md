@@ -15,7 +15,7 @@
 <!-- Primary / Core Links -->
 <a href="https://github.com/ZaidShaikh-2005"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="YOUR_GITLAB_URL"><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/zaid-shaikh-2oo5/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:iamzaid.shaikh2005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- Coding / Community Profiles -->
