@@ -22,7 +22,7 @@
 <a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 <a href="YOUR_HUGGINGFACE_URL"><img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-<a href="YOUR_STREAMLIT_URL"><img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+<a href="https://share.streamlit.io/user/zaidshaikh-2005"><img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 <a href="https://tokscale.ai/u/ZaidShaikh-2005"><img src="https://img.shields.io/badge/TOKSCALE-000000?style=for-the-badge"></a>
 <a href="https://monkeytype.com/profile/Zaid2oo5"><img src="https://img.shields.io/badge/MONKEYTYPE-E2B714?style=for-the-badge"></a>
 
