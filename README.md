@@ -1,5 +1,3 @@
----
-
 ## About Me - [Resume](YOUR_RESUME_LINK)
 
 <table>
@@ -32,7 +30,6 @@ I am continuously expanding my skills in **Software Development, AI/ML, Embedded
 </td>
 </tr>
 </table>
-
 ---
 
 ## Tech Stack
@@ -136,5 +133,3 @@ I am continuously expanding my skills in **Software Development, AI/ML, Embedded
 </tr>
 
 </table>
-
----
