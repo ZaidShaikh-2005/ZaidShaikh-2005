@@ -166,19 +166,6 @@ Personal developer portfolio showcasing projects, skills, and technical experien
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZaidShaikh-2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidShaikh-2005&layout=compact&theme=tokyonight&hide_border=true" height="180">
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ZaidShaikh-2005&theme=tokyonight&hide_border=true">
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
