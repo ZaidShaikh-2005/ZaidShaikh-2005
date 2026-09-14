@@ -1,25 +1,27 @@
+---
+
 ## About Me - [Resume](YOUR_RESUME_LINK)
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I'm a **B.Tech EXTC student at SPIT** and a Software Developer focused on building practical, scalable and technology-driven solutions.
+I'm a **B.Tech EXTC student at SPIT** and a Software Developer focused on building scalable, practical and technology-driven solutions.
 
-I work across software development, embedded systems, IoT and AI/ML, with an interest in integrating hardware and software to solve real-world problems.
+I work across **software development, backend systems, embedded systems, IoT and AI/ML**, with a strong interest in integrating hardware and software to solve real-world problems.
 
-I have experience working with:
+I work with:
 
 - Python, C and C++
 - Django and Web Development
-- REST APIs and backend development
+- REST APIs and Backend Development
 - AI/ML and Computer Vision
 - Embedded Systems and IoT
-- MQTT and hardware-software integration
+- MQTT and Hardware-Software Integration
 
-I focus on writing clean, maintainable code while developing solutions that are practical, reliable and user-focused.
+I bring a practical, project-driven approach to development, focusing on clean code, maintainable architecture and reliable solutions.
 
-Currently, I am expanding my expertise in **Software Development, AI/ML, Embedded Systems and IoT**, while working on projects that combine different areas of technology.
+I am continuously expanding my skills in **Software Development, AI/ML, Embedded Systems and IoT**, while working on projects, hackathons and real-world applications.
 
 </td>
 
@@ -37,12 +39,12 @@ Currently, I am expanding my expertise in **Software Development, AI/ML, Embedde
 
 <table>
 <tr>
-<th>Category</th>
 <th>Tools & Technologies</th>
+<th>Badge</th>
 </tr>
 
 <tr>
-<td><b>Programming Languages</b></td>
+<td>Programming<br>Languages</td>
 <td>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -53,19 +55,19 @@ Currently, I am expanding my expertise in **Software Development, AI/ML, Embedde
 </tr>
 
 <tr>
-<td><b>Web Development</b></td>
+<td>Web Development</td>
 <td>
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 </td>
 </tr>
 
 <tr>
-<td><b>AI / ML & Computer Vision</b></td>
+<td>AI / ML &<br>Computer Vision</td>
 <td>
 
 <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge">
@@ -77,7 +79,19 @@ Currently, I am expanding my expertise in **Software Development, AI/ML, Embedde
 </tr>
 
 <tr>
-<td><b>Embedded Systems & IoT</b></td>
+<td>Backend, APIs &<br>Databases</td>
+<td>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td>Embedded Systems<br>& IoT</td>
 <td>
 
 <img src="https://img.shields.io/badge/Embedded%20Systems-1E1E1E?style=for-the-badge">
@@ -90,19 +104,7 @@ Currently, I am expanding my expertise in **Software Development, AI/ML, Embedde
 </tr>
 
 <tr>
-<td><b>Backend & APIs</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-</td>
-</tr>
-
-<tr>
-<td><b>Version Control & Development</b></td>
+<td>Version Control<br>& Development</td>
 <td>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -113,17 +115,18 @@ Currently, I am expanding my expertise in **Software Development, AI/ML, Embedde
 </tr>
 
 <tr>
-<td><b>Development Tools</b></td>
+<td>Development<br>Tools</td>
 <td>
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Proteus-1B1B1B?style=for-the-badge">
 
 </td>
 </tr>
 
 <tr>
-<td><b>Deployment & Infrastructure</b></td>
+<td>Deployment &<br>Infrastructure</td>
 <td>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
