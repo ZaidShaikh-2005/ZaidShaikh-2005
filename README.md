@@ -57,7 +57,7 @@ I learn primarily through **project-based work** — designing, building, and sh
 </td>
 <td width="35%" align="center" valign="top">
 
-<img src="./assets/developer.gif" width="100%">
+<img src="./PRO.gif" width="100%">
 
 </td>
 </tr>
