@@ -67,26 +67,6 @@ I learn primarily through **project-based work** — designing, building, and sh
 
 ---
 
-## Education
-
-| Institution | Program | Duration | Score |
-|---|---|---|---|
-| Sardar Patel Institute of Technology (SPIT), Mumbai | B.Tech, Electronics & Telecommunication Engineering (Minor: Computer Engineering) | Expected Nov 2028 | CGPA: 9.47/10.0 (Minor: 9.00/10.0) |
-| SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering, Mumbai | Diploma, Electronics & Telecommunication Engineering | Completed May 2025 | — |
-
----
-
-## Experience
-
-**Research & Development Intern** — A-1 Fence Products Pvt. Ltd., Mumbai
-*May 2024 – Nov 2024*
-
-- Developed a software interface for a perimeter security and intrusion detection prototype, enabling real-time sensor monitoring, alerts, and geolocation visualization through a live map-based UI.
-- Implemented logic to map triggered sensor coordinates and automatically orient a camera toward the detected location for visual verification.
-- Contributed to a vibration-sensor-based detection system and integrated the software-hardware stack into a portable demonstration unit.
-
----
-
 ## Tech Stack
 
 <table>
