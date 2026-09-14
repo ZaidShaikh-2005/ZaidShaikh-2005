@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Zaid Shaikh
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=1E1E1E&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Zaid+Shaikh" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7A1&center=true&vCenter=true&width=800&lines=Software+Developer;Embedded+Systems+%26+IoT;AI%2FML+Enthusiast;Python+%7C+C%2B%2B+%7C+Django;Building+Real-World+Technology+Solutions" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=700&color=00C48C&center=true&vCenter=true&width=700&lines=Python;C;C%2B%2B;Java;JavaScript" alt="Typing SVG">
 
 <br>
 
@@ -10,15 +10,13 @@
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge"></a>
 <a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge"></a>
 
-<br><br>
+<br>
 
 <!-- Primary / Core Links -->
 <a href="https://github.com/ZaidShaikh-2005"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="YOUR_GITLAB_URL"><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/zaid-shaih-2oo5/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:iamzaid.shaikh2005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<br>
 
 <!-- Coding / Community Profiles -->
 <a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
@@ -27,8 +25,6 @@
 <a href="YOUR_STREAMLIT_URL"><img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 <a href="YOUR_TOKSCALE_URL"><img src="https://img.shields.io/badge/TOKSCALE-000000?style=for-the-badge"></a>
 <a href="YOUR_MONKEYTYPE_URL"><img src="https://img.shields.io/badge/MONKEYTYPE-E2B714?style=for-the-badge"></a>
-
-<br>
 
 <!-- Social -->
 <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"></a>
