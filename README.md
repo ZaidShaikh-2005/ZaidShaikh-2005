@@ -19,8 +19,8 @@
 <a href="mailto:iamzaid.shaikh2005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- Coding / Community Profiles -->
-<a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.kaggle.com/zzaidshaikh"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://leetcode.com/u/zaid_shaikh13105/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 <a href="YOUR_HUGGINGFACE_URL"><img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
 <a href="https://share.streamlit.io/user/zaidshaikh-2005"><img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 <a href="https://tokscale.ai/u/ZaidShaikh-2005"><img src="https://img.shields.io/badge/TOKSCALE-000000?style=for-the-badge"></a>
