@@ -2,24 +2,76 @@
 
 # 👋 Hi, I'm Zaid Shaikh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7A1&center=true&vCenter=true&width=850&lines=Software+Developer;Embedded+%26+IoT+Enthusiast;AI%2FML+Enthusiast;Python+%7C+C%2B%2B+%7C+Django;Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7A1&center=true&vCenter=true&width=850&lines=Software+Developer;Embedded+%26+IoT+Enthusiast;AI%2FML+Enthusiast;Python+%7C+C%2B%2B+%7C+Django;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG">
 
-<br>
+<br><br>
 
-<a href="https://github.com/ZaidShaikh-2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/">">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<!-- Portfolio & Blogs -->
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge">
+</a>
+
+<a href="YOUR_BLOG_URL">
+<img src="https://img.shields.io/badge/✍️%20BLOGS-000000?style=for-the-badge">
+</a>
+
+<br><br>
+
+<!-- Social Profiles -->
+
+<a href="https://github.com/ZaidShaikh-2005">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://gitlab.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:iamzaid.shaikh2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.kaggle.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
+
+<a href="https://tokscale.io/">
+<img src="https://img.shields.io/badge/TOKSCALE-000000?style=for-the-badge">
+</a>
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://huggingface.co/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</a>
+
+<br>
+
+<a href="https://streamlit.io/">
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+<a href="https://monkeytype.com/">
+<img src="https://img.shields.io/badge/MONKEYTYPE-E2B714?style=for-the-badge">
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.reddit.com/user/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
@@ -30,7 +82,7 @@
 
 I'm **Zaid Shaikh**, a **B.Tech EXTC student at SPIT** and a Software Developer passionate about building practical, real-world technology solutions.
 
-I enjoy working across **software, embedded systems, IoT and AI/ML**, combining hardware and software to turn ideas into working products.
+I enjoy working at the intersection of **software, embedded systems, IoT and AI/ML**, combining hardware and software to turn ideas into working products.
 
 ### 🚀 What I Work With
 
@@ -93,7 +145,7 @@ A smart healthcare monitoring platform designed for remote health monitoring and
 **Tech:** Django • Python • REST API • IoT • AI/ML
 
 <a href="https://github.com/ZaidShaikh-2005/smart_healthcare_system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
@@ -105,7 +157,7 @@ A Django-based parking management solution designed to manage parking operations
 **Tech:** Django • Python • MQTT • IoT
 
 <a href="https://github.com/ZaidShaikh-2005/parking-management-system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
@@ -115,7 +167,7 @@ A Django-based parking management solution designed to manage parking operations
 A personal developer portfolio showcasing projects, skills and technical experience.
 
 <a href="https://github.com/ZaidShaikh-2005/Portfolio">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
@@ -155,15 +207,19 @@ A personal developer portfolio showcasing projects, skills and technical experie
 <div align="center">
 
 <a href="https://github.com/ZaidShaikh-2005">
-<img src="https://img.shields.io/badge/GitHub-ZaidShaikh--2005-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-ZaidShaikh--2005-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/">">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/zaid-shaih-2oo5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:iamzaid.shaikh2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </div>
