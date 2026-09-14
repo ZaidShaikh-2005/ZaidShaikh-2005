@@ -166,14 +166,6 @@ Personal developer portfolio showcasing projects, skills, and technical experien
 
 ---
 
-## Achievements
-
-- 2nd Prize — State-Level Technical Paper Presentation, TECHFAIR'25
-- 1st Rank in College — Diploma in EXTC Engineering, SBMP
-- National Level Project Competition — Samarthya 2026
-
----
-
 ## GitHub Statistics
 
 <div align="center">
