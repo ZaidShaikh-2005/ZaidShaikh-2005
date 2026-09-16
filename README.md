@@ -136,9 +136,26 @@ Personal developer portfolio showcasing projects, skills, and technical experien
 
 ## Contribution Graph
 
+<!-- Public-only graph (does not include private repos) -->
 <div align="center">
 <img src="https://ghchart.rshah.org/E100FF/ZaidShaikh-2005" alt="ZaidShaikh-2005's Github chart">
 </div>
+
+<!--
+  Private contributions included: after completing the self-hosted setup
+  (fork AlooDaParatha/Github-Activities, add GH_PRIVATE_TOKEN secret, run the
+  workflow), replace YOUR_USERNAME/YOUR_REPO below with your fork's path and
+  swap it in for the block above.
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity-dark.svg?v=2">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity-light.svg?v=2">
+      <img alt="GitHub Contribution Graph (incl. private)" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity.svg?v=2">
+    </picture>
+  </p>
+-->
+
 
 ---
 
