@@ -133,29 +133,40 @@ Personal developer portfolio showcasing projects, skills, and technical experien
 <a href="https://github.com/ZaidShaikh-2005/Portfolio"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
-
 ## Contribution Graph
 
-<!-- Public-only graph (does not include private repos) -->
 <div align="center">
-<img src="https://ghchart.rshah.org/E100FF/ZaidShaikh-2005" alt="ZaidShaikh-2005's Github chart">
+
+<a href="https://zaidshaikh-2005.github.io/Portfolio/bubble-shooter.html">
+  <img
+    src="https://ghchart.rshah.org/E100FF/ZaidShaikh-2005"
+    alt="ZaidShaikh-2005's GitHub Contribution Graph"
+  >
+</a>
+
+<br><br>
+
+<a href="https://zaidshaikh-2005.github.io/Portfolio/bubble-shooter.html">
+  <img
+    src="https://img.shields.io/badge/🎮_DESTROY_MY_CONTRIBUTIONS-PLAY_NOW-E100FF?style=for-the-badge"
+    alt="Play Contribution Blaster"
+  >
+</a>
+
+<br><br>
+
+<sub>
+🎯 Click the contribution graph or button above to launch
+<strong>Contribution Blaster</strong>
+</sub>
+
+<br>
+
+<sub>
+Move to aim • Hold left click to rapid fire • R to restart
+</sub>
+
 </div>
-
-<!--
-  Private contributions included: after completing the self-hosted setup
-  (fork AlooDaParatha/Github-Activities, add GH_PRIVATE_TOKEN secret, run the
-  workflow), replace YOUR_USERNAME/YOUR_REPO below with your fork's path and
-  swap it in for the block above.
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity-dark.svg?v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity-light.svg?v=2">
-      <img alt="GitHub Contribution Graph (incl. private)" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/activity.svg?v=2">
-    </picture>
-  </p>
--->
-
 
 ---
 
